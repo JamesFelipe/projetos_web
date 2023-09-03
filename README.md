@@ -17,7 +17,7 @@ My credentials include training in systems analysis and development and courses 
 **Links:**
 *
 * [Linkedin](https://www.linkedin.com/in/james-felipe-6a4a2a1a7)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@jamesfelipe)
 
 
 ## Projetos:

@@ -23,7 +23,8 @@ My credentials include training in systems analysis and development and courses 
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Projeto1:** link
+* **Projeto1:** [Projeto Unes](https://github.com/JamesFelipe/projetos_web/tree/main/1-%20Unes)
+  * Para visualizar o site completo clique aqui: [Unes - Site](https://friendly-druid-910e90.netlify.app)
 * **Projeto2:** link
 
 ---

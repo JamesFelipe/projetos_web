@@ -23,9 +23,10 @@ My credentials include training in systems analysis and development and courses 
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Projeto1:** [Projeto Unes](https://github.com/JamesFelipe/projetos_web/tree/main/1-%20Unes)
-  * Para visualizar o site completo clique aqui: [Unes - Site](https://universidadeunesoficial.netlify.app/)
-* **Projeto2:** link
+* **Projeto1:** [Projeto Unes(Comandos)](https://github.com/JamesFelipe/projetos_web/tree/main/1-%20Unes)
+  * Para visualizar o site completo clique aqui(Página web): [Unes - Site](https://universidadeunesoficial.netlify.app/)
+* **Projeto2:** [Projeto Anna Bella(Comando)](https://github.com/JamesFelipe/projetos_web/tree/main/2-AnnaBella)
+    * Para visualizar o site completo clique aqui(Página Web): [Anna Bella - site](https://annabellaoficial.netlify.app/)
 
 ---
 

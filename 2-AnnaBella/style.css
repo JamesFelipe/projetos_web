@@ -1,0 +1,43 @@
+
+body{
+    background: url('imagens/fundo.png') #d2d2c1;
+
+}
+
+h1{
+    color: #828271;
+}
+
+a{
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 20px;
+    color: #4b566a;
+}
+
+#principal{
+    width: 900px;
+}
+
+
+.menu{
+    background-color: #c5c5b2;
+    padding: 20px;
+    margin: 0px;
+}
+
+.conteudos{
+    
+    background-color: white;
+    padding: 20px;
+}
+
+.img_borda{
+    border: 10px #c3c3ae solid;
+}
+
+.rodape{
+    text-align: center;
+}
+

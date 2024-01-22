@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+
+a:hover{
+    background-color: white;
+    color: orange;
+}
+
+h4{
+    background-color: #ccc;
+}
+
+h1{
+    color: #f7b600;
+}
+
+img{
+    width: 700px;
+}
+
+#principal{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+}
+
+.topo{
+    text-align: center;
+    background-color: #f7b600;
+    padding: 15px;
+}
+
+.menu{
+    margin: 15px;
+}
+
+.conteudos{
+    background-color: white;
+    margin: 20px auto;
+    width: 720px;
+}
+
+.conteudo{
+    padding: 10px;
+}
+
+.clear{
+    clear: both;
+}
+
+.meio{
+    width: 1153px;
+    
+}
+
+.lateral{
+    float: right;
+}
+
+
+.postagens-recentes{
+    width: 200px;
+    background-color: white;
+    padding: 10px;
+}
+
+.categorias{
+    width: 200px;
+    background-color: white;
+    color: #565656;
+    padding: 10px;
+}
+
+.black{
+    font-weight: bold;   
+    font-size: 32px; 
+}
+
+.white{
+    font-weight: bold;
+    color: white;
+    font-size: 32px;
+}
+
+.links{
+    color: orange;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    font-weight: 0px;
+}
+
+.gray{
+    background-color: darkgray;
+    height: 20px;
+}
+
+.links:hover{
+    text-decoration: underline;
+}
+
+.rodape{
+    text-align: center;
+    background-color: #ccc;
+    margin: auto auto;
+    padding: 15px;
+    width: 920px;
+    font-weight: bold;
+    color: black;
+}

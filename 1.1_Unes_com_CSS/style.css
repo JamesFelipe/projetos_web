@@ -1,0 +1,39 @@
+body{
+    background-image: url('imagens/fundo2.png');
+}
+
+a{
+    float: right;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgb(16, 16, 155);
+}
+
+a:hover{
+    background-color: blueviolet;
+    color: aqua;
+    padding: 7px;
+    margin: 7px;
+}
+
+a:active{
+    color: white;
+}
+
+#principal{
+    width: 920px;
+    margin: 0 auto;
+}
+
+
+.topo{
+    height: 92px;
+    margin-top: 10px;
+}
+
+.rodape{
+    text-align: center;
+    font-weight: bold;
+}

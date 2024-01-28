@@ -25,10 +25,13 @@ Veja os tutoriais publicados:
 
 * **Projeto1:** [Projeto Unes(Comandos)](https://github.com/JamesFelipe/projetos_web/tree/main/1-%20Unes)
   * Para visualizar o site completo clique aqui(Página web): [Unes - Site](https://universidadeunesoficial.netlify.app/)
+* **Projeto1.1:**[Projeto Unes com CSS(Comandos](https://github.com/JamesFelipe/projetos_web/tree/main/1.1_Unes_com_CSS)
+  * Para visualizar o site completo clique aqui(Página Web): [Unes com CSS site](https://unescomcss.netlify.app/)
 * **Projeto2:** [Projeto Anna Bella(Comando)](https://github.com/JamesFelipe/projetos_web/tree/main/2-AnnaBella)
     * Para visualizar o site completo clique aqui(Página Web): [Anna Bella - site](https://annabellaoficial.netlify.app/)
 * **ProJeto3:** [Projeto TecBlog(Comando)]()
     * Para visualizar o site completo clique aqui(Págia Web): [https://tecblogoficial.netlify.app]
+
 ---
 
 

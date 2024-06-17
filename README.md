@@ -30,7 +30,7 @@ Veja os tutoriais publicados:
 * **Projeto2:** [Projeto Anna Bella(Comando)](https://github.com/JamesFelipe/projetos_web/tree/main/2-AnnaBella)
     * Para visualizar o site completo clique aqui(Página Web): [Anna Bella - site](https://annabellaoficial.netlify.app/)
 * **ProJeto3:** [Projeto TecBlog(Comando)]()
-    * Para visualizar o site completo clique aqui(Págia Web): [https://tecblogoficial.netlify.app]
+    * Para visualizar o site completo clique aqui(Págia Web): [TecBlog - Site](https://tecblogoficial.netlify.app)
 
 ---
 
